@@ -1,0 +1,6 @@
+{
+  "name": "Blockey Hockey",
+  "description": "A blocky, Minecraft-style online multiplayer hockey game with realistic ice physics, custom stick and outfit skins, AI goalies, and local or online matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
